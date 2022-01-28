@@ -24,5 +24,4 @@
  [MIT](choosealicense.com/licenses/mit/)
  ***
 
- ## Proje Resmi
- ![Lorem Picım Gorsel](https://cdn.cimri.io/image/1000x1000/1-sinif-goresel-algi-zep-binot-yayinlari_310760034.jpg)
+ 
